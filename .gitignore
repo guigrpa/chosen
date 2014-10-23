@@ -2,9 +2,8 @@
 node_modules
 .project
 dist/
-public/*.js
-public/*.css
 chosen.zip
+chosen*.zip
 .sass-cache
 .ruby-version
 .rbenv-gemsets
